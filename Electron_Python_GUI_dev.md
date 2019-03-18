@@ -41,4 +41,7 @@ Develope process and process record
   
   注意：简单的Native库，在配置了.npmrc后，能直接下载成功，得到需要的.node文件。也有部分库，除了Electron的Headers，还需要本地其它依赖的支持。例      如：canvas和sqlite3。
 
-
+3. zerorpc的使用
+  zeroRPC: keep running process after response is sent
+  参考： https://stackoverflow.com/questions/31013472/zerorpc-keep-running-process-after-response-is-sent
+  
